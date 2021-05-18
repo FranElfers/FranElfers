@@ -1,14 +1,10 @@
-### Hi there 👋
-https://icongr.am/devicon/react-original.svg?size=128&color=70c8ff
-<a href="https://franciscoelfers.com">
-<img align="left" alt="React" width="22px" src="https://icongr.am/devicon/react-original.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://franciscoelfers.com">
-<img align="left" alt="CSS3" width="22px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://franciscoelfers.com">
-<img align="left" alt="JS" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=70c8ff" />
-</a>
+### Hi there 👋 [Portfolio](https://franciscoelfers.com)
+
+<img align="left" title="React" width="22px" src="https://icongr.am/simple/react.svg?size=128&color=70c8ff&colored=false" />
+<img align="left" title="CSS3" width="22px" src="https://icongr.am/simple/css3.svg?size=128&color=70c8ff&colored=false" />
+<img align="left" title="JavaScript" width="22px" src="https://icongr.am/simple/javascript.svg?size=148&color=70c8ff&colored=false" />
+<img align="left" title="Firebase" width="22px" src="https://icongr.am/simple/firebase.svg?size=148&color=70c8ff&colored=false" />
+<img align="left" title="Figma" width="22px" src="https://icongr.am/simple/figma.svg?size=148&color=70c8ff&colored=false" />
 
 
 <!--
