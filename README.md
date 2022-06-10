@@ -5,7 +5,6 @@
 <a href="#"><img align="left" title="HTML" height="22px" src="https://franelfersportfolio.netlify.app/html.svg" /></a>
 <a href="#"><img align="left" title="CSS" height="22px" src="https://franelfersportfolio.netlify.app/css.svg" /></a>
 <a href="#"><img align="left" title="Python" height="22px" src="https://franelfersportfolio.netlify.app/python.svg" /></a>
-<br><br>
 <a href="#"><img align="left" title="Reactjs" height="22px" src="https://franelfersportfolio.netlify.app/react.svg" /></a>
 <a href="#"><img align="left" title="Nextjs" height="22px" src="https://franelfersportfolio.netlify.app/nextjs.svg" /></a>
 <a href="#"><img align="left" title="Solidjs" height="22px" src="https://franelfersportfolio.netlify.app/solidjs.svg" /></a>
@@ -17,7 +16,6 @@
 <a href="#"><img align="left" title="Firebase" height="22px" src="https://franelfersportfolio.netlify.app/firebase.svg" /></a>
 <a href="#"><img align="left" title="MondoDB" height="22px" src="https://franelfersportfolio.netlify.app/mongodb.svg" /></a>
 <a href="#"><img align="left" title="Express" height="22px" src="https://franelfersportfolio.netlify.app/expressjs.svg" /></a>
-<br><br>
 <a href="#"><img align="left" title="Redis" height="22px" src="https://franelfersportfolio.netlify.app/redis.svg" /></a>
 <a href="#"><img align="left" title="Git" height="22px" src="https://franelfersportfolio.netlify.app/git.svg" /></a>
 <a href="#"><img align="left" title="Figma" height="22px" src="https://franelfersportfolio.netlify.app/figma.svg" /></a>
